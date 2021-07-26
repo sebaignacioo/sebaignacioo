@@ -2,6 +2,8 @@
 
 <p align="center">
 <strong>Bienvenidos a mi perfil de Github!</strong>
+<br />
+<a href="https://github.com/sebaignacioo/sebaignacioo/blob/main/README_en.md"><small> 🇬🇧 English version</small></a>
 <p align="center">
 <a href="https://github.com/sebaignacioo"><img alt="Sígueme en Github!" src="https://img.shields.io/github/followers/sebaignacioo?label=Github&style=social"></a>
 <br />
