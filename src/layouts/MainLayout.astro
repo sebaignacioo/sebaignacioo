@@ -1,0 +1,28 @@
+---
+import Footer from "@components/Footer";
+import Header from "@components/Header";
+const { title } = Astro.props;
+---
+
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+  <body
+    class="absolute h-full bg-gradient-to-b from-gray-900/20 to-zinc-700/20"
+  >
+    <div class="sticky z-10 top-0 w-full">
+      <Header client:visible />
+    </div>
+    <main class="relative inset-0 overflow-y-scroll">
+      <!-- su contenido es inyectado aquí -->
+      <div class="min-h-screen">
+        <slot />
+      </div>
+    </main>
+    <div class="w-full">
+      <Footer client:visible />
+    </div>
+  </body>
+</html>
