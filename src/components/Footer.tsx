@@ -1,20 +1,39 @@
 import type { IconType } from 'react-icons';
 import { SiFacebook, SiGithub, SiInstagram, SiTwitter } from 'react-icons/si/index';
 
+/**
+ * Enlaces del navbar del Footer
+ * @param name Nombre del enlace
+ * @param href Ruta del enlace
+ */
 type FooterNavLink = {
   name: string;
   href: string;
 };
 
+/**
+ * Enlaces sociales del navbar del Footer
+ * @param name Nombre del enlace
+ * @param href Ruta del enlace
+ * @param icon Icono del enlace
+ */
 type FooterSocialLink = FooterNavLink & {
   icon: IconType;
 };
 
+/**
+ * Enlaces del navbar del Footer
+ * @param main Enlaces principales
+ * @param social Enlaces sociales
+ */
 type FooterNavLinks = {
   main: FooterNavLink[];
   social: FooterSocialLink[];
 };
 
+/**
+ * Enlaces del navbar del Footer
+ */
 const footerNavLinks: FooterNavLinks = {
   main: [
     { name: 'Inicio', href: '/' },
@@ -48,6 +67,10 @@ const footerNavLinks: FooterNavLinks = {
   ],
 };
 
+/**
+ * Componente del footer
+ * @returns Componente del footer
+ */
 const Footer = () => (
   <footer className="bg-gradient-to-b from-gray-900 to-black">
     <div className="mx-auto max-w-7xl overflow-hidden py-12 px-4 sm:px-6 lg:px-8">

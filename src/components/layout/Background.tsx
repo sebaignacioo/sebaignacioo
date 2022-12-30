@@ -1,7 +1,17 @@
 import { ParallaxBanner, ParallaxProvider } from 'react-scroll-parallax';
+
 import type { BannerLayer } from 'react-scroll-parallax/dist/components/ParallaxBanner/types';
 
-const EquisDe = ({ children, className }: { children: React.ReactNode; className: string }) => {
+/**
+ * Componente de fondo parallax
+ * @param children Contenido del componente
+ * @param className Clase tailwindcss del componente
+ * @returns Componente de fondo parallax
+ */
+const ParallaxBackground = ({ children, className }: { children: React.ReactNode; className: string }) => {
+  /**
+   * Capa del fondo del banner
+   */
   const background: BannerLayer = {
     image: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/105988/banner-background.jpg',
     translateY: [0, 50],
@@ -10,6 +20,9 @@ const EquisDe = ({ children, className }: { children: React.ReactNode; className
     shouldAlwaysCompleteAnimation: true,
   };
 
+  /**
+   * Capa del título del banner
+   */
   const headline: BannerLayer = {
     translateY: [-30, 20],
     scale: [1, 1.15, 'easeOutCubic'],
@@ -22,6 +35,9 @@ const EquisDe = ({ children, className }: { children: React.ReactNode; className
     ),
   };
 
+  /**
+   * Capa del primer plano del banner
+   */
   const foreground: BannerLayer = {
     image: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/105988/banner-foreground.png',
     translateY: [0, 15],
@@ -29,6 +45,9 @@ const EquisDe = ({ children, className }: { children: React.ReactNode; className
     shouldAlwaysCompleteAnimation: true,
   };
 
+  /**
+   * Capa del overlay del banner
+   */
   const gradientOverlay: BannerLayer = {
     opacity: [0, 0.95],
     shouldAlwaysCompleteAnimation: true,
@@ -44,10 +63,18 @@ const EquisDe = ({ children, className }: { children: React.ReactNode; className
   );
 };
 
+/**
+ * Componente de fondo parallax
+ * @param children Contenido del componente
+ * @param className Clase tailwindcss del componente
+ * @returns Componente de fondo parallax
+ */
 const Background = ({ children, className }: { children: React.ReactNode; className?: string }) => {
   return (
     <ParallaxProvider>
-      <EquisDe className={className ?? 'rounded-3xl border-2 border-white/30 bg-white/5 p-12'}>{children}</EquisDe>
+      <ParallaxBackground className={className ?? 'rounded-3xl border-2 border-white/30 bg-white/5 p-12'}>
+        {children}
+      </ParallaxBackground>
     </ParallaxProvider>
   );
 };

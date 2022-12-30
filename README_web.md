@@ -35,9 +35,9 @@
 └── tsconfig.json               * Configuración TypeScript
 ```
 
-## 🧞 Commands
+## 🧞 Comandos
 
-All commands are run from the root of the project, from a terminal:
+Los siguientes comandos pueden ser ejecutados por un terminal ubicado en la raíz del proyecto:
 
 | Comando          | Descripción                                                          |
 | :--------------- | :------------------------------------------------------------------- |

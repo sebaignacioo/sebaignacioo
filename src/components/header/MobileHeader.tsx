@@ -5,10 +5,19 @@ import { HiXMark } from 'react-icons/hi2/index';
 
 import type { NavLink } from '@components/Header';
 
+/**
+ * Propiedades del componente MobileHeader
+ * @param navLinks Enlaces del navbar
+ */
 type MobileHeaderProps = {
   navLinks: NavLink[];
 };
 
+/**
+ * Componente del header para dispositivos móviles
+ * @param navLinks Enlaces del navbar
+ * @returns Componente del header para dispositivos móviles
+ */
 const MobileHeader = ({ navLinks }: MobileHeaderProps) => {
   return (
     <Transition

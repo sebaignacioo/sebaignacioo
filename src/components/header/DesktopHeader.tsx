@@ -1,6 +1,7 @@
-import type { NavButton, NavLink } from '@components/Header';
-import { Popover, Transition } from '@headlessui/react';
 import { Fragment } from 'react';
+
+import { Popover, Transition } from '@headlessui/react';
+
 import {
   HiOutlineNewspaper,
   HiOutlineShare,
@@ -9,10 +10,20 @@ import {
   HiBars3,
 } from 'react-icons/hi2/index';
 
+import type { NavButton, NavLink } from '@components/Header';
+import f from '@lib/f'; // Funciones varias
+
+/**
+ * Propiedades del componente DesktopHeader
+ * @param navLinks Enlaces del navbar
+ */
 type DesktopHeaderProps = {
   navLinks: NavLink[];
 };
 
+/**
+ * Botones del navbar, ubicados a la derecha
+ */
 const navButtons: NavButton[] = [
   {
     displayName: 'Contacto',
@@ -31,10 +42,11 @@ const navButtons: NavButton[] = [
   },
 ];
 
-function classNames(...classes: any) {
-  return classes.filter(Boolean).join(' ');
-}
-
+/**
+ * Componente del header para pantallas grandes
+ * @param navLinks Enlaces del navbar
+ * @returns Componente del header para pantallas grandes
+ */
 const DesktopHeader = ({ navLinks }: DesktopHeaderProps) => {
   return (
     <div className="px-6 sm:px-10">
@@ -56,6 +68,7 @@ const DesktopHeader = ({ navLinks }: DesktopHeaderProps) => {
           </a>
         </div>
 
+        {/* Menu de navegación */}
         <Popover.Group as="nav" className="hidden space-x-10 lg:flex lg:items-center">
           {navLinks.map((link) =>
             link.links ? (
@@ -63,14 +76,14 @@ const DesktopHeader = ({ navLinks }: DesktopHeaderProps) => {
                 {({ open }) => (
                   <>
                     <Popover.Button
-                      className={classNames(
+                      className={f.classNames(
                         open ? 'text-gray-200' : 'text-gray-400',
                         'group inline-flex items-center text-sm font-light ring-transparent hover:text-gray-200 focus:outline-none'
                       )}
                     >
                       <span>{link.displayName}</span>
                       <HiChevronDown
-                        className={classNames(
+                        className={f.classNames(
                           open ? 'text-gray-200' : 'text-gray-400',
                           'ml-2 h-3 w-3 group-hover:text-gray-200'
                         )}
@@ -117,6 +130,8 @@ const DesktopHeader = ({ navLinks }: DesktopHeaderProps) => {
             )
           )}
         </Popover.Group>
+
+        {/* Botones */}
         <div className="flex flex-1 items-center justify-end">
           {navButtons.map((button) => (
             <a href={button.route} className="mx-3 text-base font-medium text-gray-400 hover:text-gray-200">
