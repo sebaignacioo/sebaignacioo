@@ -1,0 +1,7 @@
+{
+  "[astro]": {
+    "editor.wordWrapColumn": 120,
+    "editor.rulers": [120],
+    "editor.defaultFormatter": "astro-build.astro-vscode"
+  }
+}

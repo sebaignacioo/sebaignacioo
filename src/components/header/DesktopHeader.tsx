@@ -1,13 +1,13 @@
-import type { NavButton, NavLink } from "@components/Header";
-import { Popover, Transition } from "@headlessui/react";
-import { Fragment } from "react";
+import type { NavButton, NavLink } from '@components/Header';
+import { Popover, Transition } from '@headlessui/react';
+import { Fragment } from 'react';
 import {
   HiOutlineNewspaper,
   HiOutlineShare,
   HiOutlineArrowDownOnSquare,
   HiChevronDown,
   HiBars3,
-} from "react-icons/hi2/index";
+} from 'react-icons/hi2/index';
 
 type DesktopHeaderProps = {
   navLinks: NavLink[];
@@ -15,51 +15,48 @@ type DesktopHeaderProps = {
 
 const navButtons: NavButton[] = [
   {
-    displayName: "Contacto",
-    route: "/proximamente",
+    displayName: 'Contacto',
+    route: '/proximamente',
     icon: HiOutlineShare,
   },
   {
-    displayName: "Blog",
-    route: "/proximamente",
+    displayName: 'Blog',
+    route: '/proximamente',
     icon: HiOutlineNewspaper,
   },
   {
-    displayName: "Descargar currículum",
-    route: "/proximamente",
+    displayName: 'Descargar currículum',
+    route: '/proximamente',
     icon: HiOutlineArrowDownOnSquare,
   },
 ];
 
 function classNames(...classes: any) {
-  return classes.filter(Boolean).join(" ");
+  return classes.filter(Boolean).join(' ');
 }
 
 const DesktopHeader = ({ navLinks }: DesktopHeaderProps) => {
   return (
     <div className="px-6 sm:px-10">
-      <div className="flex border-b px-10 border-zinc-50/20 py-4 md:space-x-20">
+      <div className="flex border-b border-zinc-50/20 px-10 py-4 md:space-x-20">
         <div className="flex items-center justify-start">
           <a href="/">
-            <div className="text-zinc-200 flex align-center gap-x-4">
+            <div className="align-center flex gap-x-4 text-zinc-200">
               <img
-                className="rounded-full h-10 w-auto sm:h-12"
+                className="h-10 w-auto rounded-full sm:h-12"
                 src="https://github.com/sebaignacioo.png?size=100"
                 alt=""
               />
-              <div className="hidden justify-center flex-col sm:flex">
+              <div className="hidden flex-col justify-center sm:flex">
                 <span className="text-base">Sebastián García Delgadillo</span>
-                <span className="text-2xs -my-1">Desarrollador</span>
+                <span className="-my-1 text-2xs">Desarrollador</span>
               </div>
             </div>
             <span className="sr-only">sgarciad.me</span>
           </a>
         </div>
 
-        <Popover.Group
-          as="nav"
-          className="hidden space-x-10 lg:flex lg:items-center"
-        >
+        <Popover.Group as="nav" className="hidden space-x-10 lg:flex lg:items-center">
           {navLinks.map((link) =>
             link.links ? (
               <Popover className="relative">
@@ -67,15 +64,15 @@ const DesktopHeader = ({ navLinks }: DesktopHeaderProps) => {
                   <>
                     <Popover.Button
                       className={classNames(
-                        open ? "text-gray-200" : "text-gray-400",
-                        "group inline-flex items-center text-sm font-light hover:text-gray-200 ring-transparent focus:outline-none"
+                        open ? 'text-gray-200' : 'text-gray-400',
+                        'group inline-flex items-center text-sm font-light ring-transparent hover:text-gray-200 focus:outline-none'
                       )}
                     >
                       <span>{link.displayName}</span>
                       <HiChevronDown
                         className={classNames(
-                          open ? "text-gray-200" : "text-gray-400",
-                          "ml-2 h-3 w-3 group-hover:text-gray-200"
+                          open ? 'text-gray-200' : 'text-gray-400',
+                          'ml-2 h-3 w-3 group-hover:text-gray-200'
                         )}
                         aria-hidden="true"
                       />
@@ -99,17 +96,10 @@ const DesktopHeader = ({ navLinks }: DesktopHeaderProps) => {
                                 href={sublink.route}
                                 className="-m-3 flex items-center rounded-lg p-3 hover:bg-primary-800"
                               >
-                                <sublink.icon
-                                  className="h-4 w-4 flex-shrink-0 text-primary-200"
-                                  aria-hidden="true"
-                                />
+                                <sublink.icon className="h-4 w-4 flex-shrink-0 text-primary-200" aria-hidden="true" />
                                 <div className="ml-4">
-                                  <p className="font-light text-primary-50">
-                                    {sublink.displayName}
-                                  </p>
-                                  <p className="text-xs text-primary-300">
-                                    {sublink.description}
-                                  </p>
+                                  <p className="font-light text-primary-50">{sublink.displayName}</p>
+                                  <p className="text-xs text-primary-300">{sublink.description}</p>
                                 </div>
                               </a>
                             ))}
@@ -121,30 +111,22 @@ const DesktopHeader = ({ navLinks }: DesktopHeaderProps) => {
                 )}
               </Popover>
             ) : (
-              <a
-                href={link.route}
-                className="text-sm font-light text-gray-400 hover:text-gray-200"
-              >
+              <a href={link.route} className="text-sm font-light text-gray-400 hover:text-gray-200">
                 {link.displayName}
               </a>
             )
           )}
         </Popover.Group>
-        <div className="items-center justify-end flex flex-1">
+        <div className="flex flex-1 items-center justify-end">
           {navButtons.map((button) => (
-            <a
-              href={button.route}
-              className="mx-3 text-base font-medium text-gray-400 hover:text-gray-200"
-            >
-              <div className="hidden md:flex w-10 items-center text-center md:flex-col gap-y-1">
+            <a href={button.route} className="mx-3 text-base font-medium text-gray-400 hover:text-gray-200">
+              <div className="hidden w-10 items-center gap-y-1 text-center md:flex md:flex-col">
                 <button.icon className="h-6 w-6" aria-hidden="true" />
-                <span className="h-3 text-2xs break-words">
-                  {button.displayName}
-                </span>
+                <span className="h-3 break-words text-2xs">{button.displayName}</span>
               </div>
             </a>
           ))}
-          <div className="flex flex-1 w-0 items-center justify-end lg:hidden">
+          <div className="flex w-0 flex-1 items-center justify-end lg:hidden">
             <Popover.Button className="inline-flex items-center justify-center rounded-md bg-zinc-800 p-2 text-gray-400 hover:bg-gray-100 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
               <span className="sr-only">Open menu</span>
               <HiBars3 className="h-6 w-6" aria-hidden="true" />

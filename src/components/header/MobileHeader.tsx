@@ -1,9 +1,9 @@
-import { Fragment } from "react";
+import { Fragment } from 'react';
 
-import { Popover, Transition } from "@headlessui/react";
-import { HiXMark } from "react-icons/hi2/index";
+import { Popover, Transition } from '@headlessui/react';
+import { HiXMark } from 'react-icons/hi2/index';
 
-import type { NavLink } from "@components/Header";
+import type { NavLink } from '@components/Header';
 
 type MobileHeaderProps = {
   navLinks: NavLink[];
@@ -20,10 +20,7 @@ const MobileHeader = ({ navLinks }: MobileHeaderProps) => {
       leaveFrom="opacity-100 scale-100"
       leaveTo="opacity-0 scale-95"
     >
-      <Popover.Panel
-        focus
-        className="absolute inset-x-0 top-0 origin-top-right transform p-2 transition lg:hidden"
-      >
+      <Popover.Panel focus className="absolute inset-x-0 top-0 origin-top-right transform p-2 transition lg:hidden">
         <div className="rounded-lg bg-primary-900 shadow-lg">
           <div className="px-5 pt-5 pb-6">
             <div className="flex items-center justify-between">
@@ -41,11 +38,9 @@ const MobileHeader = ({ navLinks }: MobileHeaderProps) => {
                   <a
                     key={link.displayName}
                     href={link.route}
-                    className="-m-3 flex items-center rounded-md p-3 text-zinc-200 hover:text-zinc-100 hover:bg-primary-700"
+                    className="-m-3 flex items-center rounded-md p-3 text-zinc-200 hover:bg-primary-700 hover:text-zinc-100"
                   >
-                    <span className="ml-3 text-base font-medium">
-                      {link.displayName}
-                    </span>
+                    <span className="ml-3 text-base font-medium">{link.displayName}</span>
                   </a>
                 ))}
               </nav>

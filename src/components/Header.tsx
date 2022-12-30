@@ -1,11 +1,11 @@
-import type { IconType } from "react-icons";
-import { Popover } from "@headlessui/react";
+import type { IconType } from 'react-icons';
+import { Popover } from '@headlessui/react';
 
-import { FaUserGraduate, FaProjectDiagram } from "react-icons/fa/index";
-import { HiBriefcase } from "react-icons/hi2/index";
+import { FaUserGraduate, FaProjectDiagram } from 'react-icons/fa/index';
+import { HiBriefcase } from 'react-icons/hi2/index';
 
-import DesktopHeader from "./header/DesktopHeader";
-import MobileHeader from "./header/MobileHeader";
+import DesktopHeader from './header/DesktopHeader';
+import MobileHeader from './header/MobileHeader';
 
 export type NavSubLink = NavLink & {
   icon: IconType;
@@ -26,36 +26,36 @@ export type NavButton = {
 
 const navLinks: NavLink[] = [
   {
-    displayName: "Inicio",
-    route: "/",
+    displayName: 'Inicio',
+    route: '/',
   },
   {
-    displayName: "Sobre mi",
-    route: "/proximamente",
+    displayName: 'Sobre mi',
+    route: '/proximamente',
     links: [
       {
-        displayName: "Formación",
-        route: "proximamente",
+        displayName: 'Formación',
+        route: 'proximamente',
         icon: FaUserGraduate,
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
       },
       {
-        displayName: "Tecnologías",
-        route: "/proximamente",
+        displayName: 'Tecnologías',
+        route: '/proximamente',
         icon: FaProjectDiagram,
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
       },
       {
-        displayName: "Experiencia",
-        route: "/proximamente",
+        displayName: 'Experiencia',
+        route: '/proximamente',
         icon: HiBriefcase,
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
       },
     ],
   },
   {
-    displayName: "Proyectos",
-    route: "/proximamente",
+    displayName: 'Proyectos',
+    route: '/proximamente',
   },
 ];
 

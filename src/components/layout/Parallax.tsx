@@ -1,4 +1,4 @@
-import { ParallaxProvider } from "react-scroll-parallax";
+import { ParallaxProvider } from 'react-scroll-parallax';
 
 type ParallaxProps = {
   children: React.ReactNode;
