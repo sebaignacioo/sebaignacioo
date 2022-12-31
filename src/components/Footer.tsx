@@ -1,5 +1,5 @@
 import type { IconType } from 'react-icons';
-import { SiFacebook, SiGithub, SiInstagram, SiTwitter } from 'react-icons/si/index';
+import { SiFacebook, SiGithub, SiInstagram, SiLinkedin, SiTwitter } from 'react-icons/si/index';
 
 /**
  * Enlaces del navbar del Footer
@@ -58,6 +58,11 @@ const footerNavLinks: FooterNavLinks = {
       name: 'Twitter',
       href: 'https://www.twitter.com/sebaaignaciooo',
       icon: SiTwitter,
+    },
+    {
+      name: 'LinkedIn',
+      href: 'https://www.linkedin.com/in/sgarciad',
+      icon: SiLinkedin,
     },
     {
       name: 'GitHub',
