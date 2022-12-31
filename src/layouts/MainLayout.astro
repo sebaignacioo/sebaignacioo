@@ -1,7 +1,8 @@
 ---
 import Footer from '@components/Footer';
 import Header from '@components/Header';
-import DarkToggle from '@components/misc/DarkToggle';
+
+import 'react-tooltip/dist/react-tooltip.css';
 
 const { title } = Astro.props;
 ---
@@ -13,30 +14,39 @@ const { title } = Astro.props;
     <title>{title} - sgarciad.me</title>
     <script is:inline>
       const theme = (() => {
-        if (typeof localStorage !== "undefined" && localStorage.getItem("theme")) {
-          return localStorage.getItem("theme");
+        if (typeof localStorage !== 'undefined' && localStorage.getItem('theme')) {
+          return localStorage.getItem('theme');
         }
-        if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
-          return "dark";
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+          return 'dark';
         }
-        return "light";
+        return 'light';
       })();
-    
-      if (theme === "light") {
-        document.documentElement.classList.remove("dark");
+
+      if (theme === 'light') {
+        document.documentElement.classList.remove('dark');
       } else {
-        document.documentElement.classList.add("dark");
+        document.documentElement.classList.add('dark');
       }
-      window.localStorage.setItem("theme", theme);
+      window.localStorage.setItem('theme', theme);
     </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" /><link
+      rel="preconnect"
+      href="https://fonts.gstatic.com"
+      crossorigin
+    /><link
+      href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Share+Tech+Mono&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap"
+      rel="stylesheet"
+    />
   </head>
-  <body class="absolute h-full bg-gradient-to-b from-gray-50/20 to-zinc-200/20 dark:from-gray-900/20 dark:to-zinc-700/20">
+  <body
+    class="absolute w-full bg-gradient-to-b from-gray-50/20 to-zinc-200/20 dark:from-gray-900/20 dark:to-zinc-700/20"
+  >
     <div class="sticky z-10 top-0 w-full">
       <Header client:visible />
     </div>
-    <main class="relative inset-0 overflow-y-scroll">
+    <main class="relative inset-0 overflow-hidden">
       <div class="min-h-screen">
-        <DarkToggle client:visible />
         <slot />
       </div>
     </main>
