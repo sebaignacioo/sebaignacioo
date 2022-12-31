@@ -72,12 +72,12 @@ const footerNavLinks: FooterNavLinks = {
  * @returns Componente del footer
  */
 const Footer = () => (
-  <footer className="bg-gradient-to-b from-gray-900 to-black">
+  <footer className="bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-black">
     <div className="mx-auto max-w-7xl overflow-hidden py-12 px-4 sm:px-6 lg:px-8">
-      <nav className="-mx-5 -my-2 flex flex-wrap justify-center divide-x-2 divide-white/10" aria-label="Footer">
+      <nav className="-mx-5 -my-2 flex flex-wrap justify-center divide-x-2 divide-black/10 dark:divide-white/10" aria-label="Footer">
         {footerNavLinks.main.map((link) => (
           <div key={link.name} className="px-3 py-1">
-            <a href={link.href} className="text-sm text-zinc-300 hover:text-gray-100">
+            <a href={link.href} className="text-sm text-zinc-600 hover:text-gray-800 dark:text-zinc-300 dark:hover:text-gray-100">
               {link.name}
             </a>
           </div>
@@ -90,14 +90,14 @@ const Footer = () => (
             href={social.href}
             target="_blank"
             rel="noopener noreferrer"
-            className="text-gray-300 hover:text-gray-100"
+            className="text-gray-600 hover:text-gray-800 dark:text-gray-300 dark:hover:text-gray-100"
           >
             <span className="sr-only">{social.name}</span>
             <social.icon className="h-6 w-6" aria-hidden="true" />
           </a>
         ))}
       </div>
-      <p className="mt-8 text-center text-xs text-gray-400">
+      <p className="mt-8 text-center text-xs text-gray-600 dark:text-gray-400">
         &copy; {new Date().getFullYear()} - Desarrollado con 💙 desde Valparaíso, Chile.
       </p>
     </div>

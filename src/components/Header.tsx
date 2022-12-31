@@ -86,7 +86,11 @@ const navLinks: NavLink[] = [
  * @returns Componente de header
  */
 const Header = () => (
+<<<<<<< HEAD
   <Popover className="bg-gradient-to-b from-gray-900/20 to-zinc-800/20">
+=======
+  <Popover className="bg-gradient-to-b from-gray-50 to-zinc-100 dark:from-gray-900 dark:to-zinc-800">
+>>>>>>> main
     <DesktopHeader navLinks={navLinks} />
     <MobileHeader navLinks={navLinks} />
   </Popover>
