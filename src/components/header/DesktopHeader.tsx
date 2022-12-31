@@ -1,7 +1,7 @@
+import type { NavButton, NavLink } from '@components/Header';
 import { Fragment } from 'react';
 
 import { Tooltip } from 'react-tooltip';
-
 import { Popover, Transition } from '@headlessui/react';
 
 import {
@@ -11,10 +11,9 @@ import {
   HiChevronDown,
   HiBars3,
 } from 'react-icons/hi2/index';
+import { FaCode } from 'react-icons/fa/index';
 
-import type { NavButton, NavLink } from '@components/Header';
 import f from '@lib/f'; // Funciones varias
-import { FaCode } from 'react-icons/fa';
 import DarkToggle from '@components/misc/DarkToggle';
 
 /**
