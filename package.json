@@ -1,8 +1,11 @@
 {
-  "name": "@example/minimal",
+  "name": "sgarciad.me",
+  "author": "Sebastián García <sgarciad.webdev@gmail.com>",
+  "description": "Personal website and portfolio",
   "type": "module",
   "version": "0.0.1",
   "private": true,
+  "license": "UNLICENSED",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -25,6 +28,7 @@
     "react-dom": "^18.0.0",
     "react-icons": "^4.7.1",
     "react-scroll-parallax": "^3.3.2",
+    "react-tooltip": "^5.3.2",
     "tailwindcss": "^3.0.24"
   },
   "devDependencies": {

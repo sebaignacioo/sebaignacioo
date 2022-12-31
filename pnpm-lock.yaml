@@ -18,6 +18,7 @@ specifiers:
   react-dom: ^18.0.0
   react-icons: ^4.7.1
   react-scroll-parallax: ^3.3.2
+  react-tooltip: ^5.3.2
   tailwindcss: ^3.0.24
 
 dependencies:
@@ -35,6 +36,7 @@ dependencies:
   react-dom: 18.2.0_react@18.2.0
   react-icons: 4.7.1_react@18.2.0
   react-scroll-parallax: 3.3.2_biqbaboplfbrettd7655fr4n2y
+  react-tooltip: 5.3.2_biqbaboplfbrettd7655fr4n2y
   tailwindcss: 3.2.4
 
 devDependencies:
@@ -506,6 +508,16 @@ packages:
     requiresBuild: true
     dev: false
     optional: true
+
+  /@floating-ui/core/1.0.5:
+    resolution: {integrity: sha512-iDdOsaCHZH/0FM0yNBYt+cJxJF9S5jrYWNtDZOiDFMiZ7uxMJ/71h8eTwoVifEAruv9p9rlMPYCGIgMjOz95FQ==}
+    dev: false
+
+  /@floating-ui/dom/1.1.0:
+    resolution: {integrity: sha512-TSogMPVxbRe77QCj1dt8NmRiJasPvuc+eT5jnJ6YpLqgOD2zXc5UA3S1qwybN+GVCDNdKfpKy1oj8RpzLJvh6A==}
+    dependencies:
+      '@floating-ui/core': 1.0.5
+    dev: false
 
   /@headlessui/react/1.7.7_biqbaboplfbrettd7655fr4n2y:
     resolution: {integrity: sha512-BqDOd/tB9u2tA0T3Z0fn18ktw+KbVwMnkxxsGPIH2hzssrQhKB5n/6StZOyvLYP/FsYtvuXfi9I0YowKPv2c1w==}
@@ -1156,6 +1168,10 @@ packages:
   /ci-info/3.7.0:
     resolution: {integrity: sha512-2CpRNYmImPx+RXKLq6jko/L07phmS9I02TyqkcNU20GCF/GgaWvc58hPtjxDX8lPpkdwc9sNh72V9k00S7ezog==}
     engines: {node: '>=8'}
+    dev: false
+
+  /classnames/2.3.2:
+    resolution: {integrity: sha512-CSbhY4cFEJRe6/GQzIk5qXZ4Jeg5pcsP7b5peFSDpffpe1cqjASH/n9UTjBwOp6XpMSTwQ8Za2K5V02ueA7Tmw==}
     dev: false
 
   /cli-boxes/3.0.0:
@@ -3250,6 +3266,18 @@ packages:
       react-dom: ^16.8.0-0 || >=17.0.1 || ^18.0.0
     dependencies:
       parallax-controller: 1.6.0
+      react: 18.2.0
+      react-dom: 18.2.0_react@18.2.0
+    dev: false
+
+  /react-tooltip/5.3.2_biqbaboplfbrettd7655fr4n2y:
+    resolution: {integrity: sha512-3I6fGdNPCW/wF0doJ0qIT9DprUbXQ/qzBVH8c3GycBUoLmNMJFgDUWnqW1VV2fcz5uAdvX4cYEFl7nkc3Br7mA==}
+    peerDependencies:
+      react: '>=18.0.0'
+      react-dom: '>=18.0.0'
+    dependencies:
+      '@floating-ui/dom': 1.1.0
+      classnames: 2.3.2
       react: 18.2.0
       react-dom: 18.2.0_react@18.2.0
     dev: false

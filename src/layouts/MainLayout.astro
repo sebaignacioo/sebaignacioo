@@ -11,14 +11,12 @@ const { title } = Astro.props;
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title} - sgarciad.me</title>
   </head>
-  <body class="absolute h-full bg-gradient-to-b from-gray-900/20 to-zinc-700/20">
-    <div class="sticky z-10 top-0 w-full">
+  <body class="flex flex-col h-full">
+    <div class="bg-gradient-to-b from-black to-gray-900 sticky z-10 top-0 w-full">
       <Header client:visible />
     </div>
-    <main class="relative inset-0 overflow-y-scroll">
-      <div class="min-h-screen">
-        <slot />
-      </div>
+    <main class="relative min-h-screen">
+      <slot />
     </main>
     <div class="w-full">
       <Footer client:visible />
