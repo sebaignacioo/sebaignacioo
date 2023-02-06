@@ -1,6 +1,8 @@
 # sebaignacioo
 
-[![en-flag]][en-link] [English version][en-link]
+- [![en-flag]][en-link] [English version][en-link]
+- [To-do][todo-link]
+
 
 ## 👤 Sobre mí
 
@@ -26,5 +28,6 @@ Puedes encontrar mi sitio web personal (__en desarrollo__), desarrollado utiliza
 
 [en-flag]: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/32px-Flag_of_the_United_Kingdom_%281-2%29.svg.png
 [en-link]: README_en.md
+[todo-link]: TODO.md
 [cl-flag]: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/32px-Flag_of_Chile.svg.png
 [cl-link]: README.md
