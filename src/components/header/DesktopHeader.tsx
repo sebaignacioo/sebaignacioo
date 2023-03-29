@@ -40,7 +40,7 @@ const navButtons: NavButton[] = [
   },
   {
     displayName: 'Descargar currículum',
-    route: '/proximamente',
+    route: '/curriculum-sebastian-garcia-delgadillo.pdf',
     icon: HiOutlineArrowDownOnSquare,
   },
 ];
