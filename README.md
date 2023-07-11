@@ -1,17 +1,32 @@
-![#](https://sgarciad.s3.us-east-1.amazonaws.com/misc/github-header-image.png)
+<!-- BANNER INICIAL -->
+[![banner]][link-banner]
 
-## 👤 Sobre mí
+<!-- RESUMEN -->
+## :man_technologist: Un poco sobre mi
 
-- :chile: Soy de ☀ Calama, Chile. Actualmente vivo en 🌊 Valparaíso.
-- 📚 Soy estudiante de Ingeniería de Ejecución en Informática, en la Pontificia Universidad Católica de Valparaíso.
-- 💻 Programo desde el año 2013.
+[![linkedin-badge]][linkedin-link] [![discord-badge]][discord-link] [![mail-badge]][mail-link]
 
-## Stats
+> :round_pushpin: Soy Chileno, originario de Calama :sun_with_face:. Actualmente vivo en :ocean: Valparaíso. </br>
+> :man_student: Soy estudiante de Ingeniería de Ejecución en Informática, en la Pontificia Universidad Católica de Valparaíso. </br>
+> :keyboard: Programo desde el año 2013. </br>
+> :guitar: Me gusta mucho la música, toco guitarra y batería.
+
+<!-- STATS -->
+<!-- ## Stats -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## :zap: Actividad reciente por aquí
+## :globe_with_meridians: Web personal
+
+He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como programador, destaco algunos proyectos anteriores, y los puntos importantes de mi formación. Además, podrás encontrar algunas entradas de blog con tutoriales y ejemplos sobre el uso de las tecnologías que he ido aprendiendo durante los años.
+</br>
+</br>
+[![astro-badge]][astro-web]
+</br>
+`(Sitio web en desarrollo)`
+
+## :zap: Actividad reciente en Github
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#5](https://github.com/sebaignacioo/sebaignacioo/pull/5) in [sebaignacioo/sebaignacioo](https://github.com/sebaignacioo/sebaignacioo)
@@ -21,18 +36,13 @@
 5. 🎉 Merged PR [#4](https://github.com/sebaignacioo/sebaignacioo/pull/4) in [sebaignacioo/sebaignacioo](https://github.com/sebaignacioo/sebaignacioo)
 <!--END_SECTION:activity-->
 
-## 📄🚀 Sitio web personal
-
-Puedes encontrar mi sitio web personal (**en desarrollo**), desarrollado utilizando [![astro-badge]][astro-web] siguiendo el [siguiente enlace][personal-web]. También puedes visitar [la documentación](README_web.md) en donde se detalla el contenido del repositorio.
-
-## 📈 Estadísticas en Github
-
-![Estadísticas de sebaignacioo en Github](https://github-readme-stats.vercel.app/api?username=sebaignacioo&count_private=true&show_icons=true&theme=aura&locale=es&include_all_commits=true&custom_title=sebaignacioo%20en%20Github)
-
-## ⌨ Lenguajes más utilizados
-
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=sebaignacioo&layout=compact&theme=aura&locale=es)
-
-[personal-web]: https://sgarciad.me 'sgarciad.me'
-[astro-badge]: https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=fff&style=flat-square
+[astro-badge]: https://img.shields.io/badge/Visita%20mi%20web%20desarrollada%20en%20Astro-FF5D01?logo=astro&logoColor=fff&style=for-the-badge
 [astro-web]: https://astro.build/
+[banner]: https://sgarciad.s3.us-east-1.amazonaws.com/misc/github-header-image.png
+[link-banner]: https://github.com/sebaignacioo
+[linkedin-badge]: https://img.shields.io/badge/Mi%20perfil%20de%20LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat
+[linkedin-link]: https://www.linkedin.com/in/sgarciad/
+[discord-badge]: https://img.shields.io/badge/@sebaignacioo%20en%20Discord-5865F2?logo=discord&logoColor=fff&style=flat
+[discord-link]: https://www.discord.com
+[mail-badge]: https://img.shields.io/badge/Env%C3%ADame%20un%20email-000000?logo=gmail&logoColor=fff&style=flat
+[mail-link]: mailto:contacto@sgarciad.me
