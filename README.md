@@ -11,6 +11,11 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+## :zap: Actividad reciente por aquí
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## 📄🚀 Sitio web personal
 
 Puedes encontrar mi sitio web personal (**en desarrollo**), desarrollado utilizando [![astro-badge]][astro-web] siguiendo el [siguiente enlace][personal-web]. También puedes visitar [la documentación](README_web.md) en donde se detalla el contenido del repositorio.
