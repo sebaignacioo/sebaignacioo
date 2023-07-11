@@ -14,7 +14,6 @@
 ## :zap: Actividad reciente por aquí
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ## 📄🚀 Sitio web personal
 
