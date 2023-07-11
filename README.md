@@ -14,6 +14,12 @@
 ## :zap: Actividad reciente por aquí
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#5](https://github.com/sebaignacioo/sebaignacioo/pull/5) in [sebaignacioo/sebaignacioo](https://github.com/sebaignacioo/sebaignacioo)
+2. 🎉 Merged PR [#6](https://github.com/sebaignacioo/sebaignacioo/pull/6) in [sebaignacioo/sebaignacioo](https://github.com/sebaignacioo/sebaignacioo)
+3. 💪 Opened PR [#6](https://github.com/sebaignacioo/sebaignacioo/pull/6) in [sebaignacioo/sebaignacioo](https://github.com/sebaignacioo/sebaignacioo)
+4. 💪 Opened PR [#5](https://github.com/sebaignacioo/sebaignacioo/pull/5) in [sebaignacioo/sebaignacioo](https://github.com/sebaignacioo/sebaignacioo)
+5. 🎉 Merged PR [#4](https://github.com/sebaignacioo/sebaignacioo/pull/4) in [sebaignacioo/sebaignacioo](https://github.com/sebaignacioo/sebaignacioo)
+<!--END_SECTION:activity-->
 
 ## 📄🚀 Sitio web personal
 
