@@ -16,10 +16,10 @@
 > :keyboard: Programo desde el año 2013. </br>
 > :guitar: Me gusta mucho la música, toco guitarra y batería.
 
-## 📈 Stats
+## :chart_with_upwards_trend: Stats
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:personal-stats-->
+<!--END_SECTION:personal-stats-->
 
 ## :globe_with_meridians: Web personal
 
