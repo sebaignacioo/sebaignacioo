@@ -17,7 +17,7 @@
 > :guitar: Me gusta mucho la música, toco guitarra y batería.
 
 <!-- STATS -->
-<!-- ## Stats -->
+## 📈 Stats -->
 
 <!--START_SECTION:waka-->
 
