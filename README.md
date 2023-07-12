@@ -1,10 +1,15 @@
+# Repositorio personal
+
+<div style="text-align:center;">
+
 <!-- BANNER INICIAL -->
 [![banner]][link-banner]
+[![linkedin-badge]][linkedin-link] [![discord-badge]][discord-link] [![mail-badge]][mail-link]
+
+</div>
 
 <!-- RESUMEN -->
 ## :man_technologist: Un poco sobre mi
-
-[![linkedin-badge]][linkedin-link] [![discord-badge]][discord-link] [![mail-badge]][mail-link]
 
 > :round_pushpin: Soy Chileno, originario de Calama :sun_with_face:. Actualmente vivo en :ocean: Valparaíso. </br>
 > :man_student: Soy estudiante de Ingeniería de Ejecución en Informática, en la Pontificia Universidad Católica de Valparaíso. </br>
@@ -38,7 +43,7 @@ He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como 
 
 [astro-badge]: https://img.shields.io/badge/Visita%20mi%20web%20desarrollada%20en%20Astro-FF5D01?logo=astro&logoColor=fff&style=for-the-badge
 [astro-web]: https://astro.build/
-[banner]: https://sgarciad.s3.us-east-1.amazonaws.com/misc/github-header-image.png
+[banner]: https://sgarciad.s3.us-east-1.amazonaws.com/misc/github-header-image.png?
 [link-banner]: https://github.com/sebaignacioo
 [linkedin-badge]: https://img.shields.io/badge/Mi%20perfil%20de%20LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat
 [linkedin-link]: https://www.linkedin.com/in/sgarciad/
