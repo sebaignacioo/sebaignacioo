@@ -16,18 +16,9 @@
 > :keyboard: Programo desde el año 2013. </br>
 > :guitar: Me gusta mucho la música, toco guitarra y batería.
 
-<!-- STATS -->
-## 📈 Stats -->
+## 📈 Stats
 
 <!--START_SECTION:waka-->
-
-```txt
-Other      1 hr 20 mins    ███████████████▒░░░░░░░░░   60.96 %
-Markdown   47 mins         █████████░░░░░░░░░░░░░░░░   35.96 %
-Astro      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-INI        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-```
-
 <!--END_SECTION:waka-->
 
 ## :globe_with_meridians: Web personal
