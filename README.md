@@ -21,55 +21,51 @@
 <!--START_SECTION:personal-stats-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2011%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-0-blue)
 
-**🐱 My GitHub Data** 
+**🐱 Mis datos de GitHub** 
 
-> 📦 92.1 kB Used in GitHub's Storage 
+> 📦 92.1 kB Almacenamiento de GitHub utilizado 
  > 
-> 🏆 100 Contributions in the Year 2023
+> 🏆 104 Contribuciones durante el año 2023
  > 
-> 💼 Opted to Hire
+> 💼 Abierto a contratación
  > 
-> 📜 19 Public Repositories 
+> 📜 19 Repositorios Públicos 
  > 
-> 🔑 11 Private Repositories 
+> 🔑 11 Repositorios Privados 
  > 
-**I'm a Night 🦉** 
+**Soy nocturno 🦉** 
 
 ```text
-🌞 Morning                42 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.77 % 
-🌆 Daytime                89 commits          ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.18 % 
-🌃 Evening                127 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.64 % 
-🌙 Night                  47 commits          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.41 % 
+🌞 Mañana                 42 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.68 % 
+🌆 Día                    91 commits          ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.64 % 
+🌃 Tarde                  127 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.37 % 
+🌙 Noche                  47 commits          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.31 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **Esta semana me dediqué a** 
 
 ```text
-🕑︎ Time Zone: America/Santiago
+🕑︎ Zona Horaria: America/Santiago
 
-💬 Programming Languages: 
+💬 Lenguajes: 
 Other                    1 hr 20 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   60.96 % 
 Markdown                 47 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.96 % 
 Astro                    3 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.04 % 
 INI                      0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.04 % 
 
-🔥 Editors: 
+🔥 Editores: 
 Chrome                   1 hr 20 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   60.92 % 
 VS Code                  51 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.08 % 
 
-💻 Operating System: 
+💻 Sistema Operativo: 
 Windows                  2 hrs 11 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/sebaignacioo/sebaignacioo/main/assets/bar_graph.png)
-
-
- Last Updated on 12/07/2023 18:53:21 UTC
+ Last Updated on 12/07/2023 19:02:31 UTC
 <!--END_SECTION:personal-stats-->
 
 ## :globe_with_meridians: Web personal
