@@ -27,7 +27,7 @@
 He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como programador, destaco algunos proyectos anteriores, y los puntos importantes de mi formación. Además, podrás encontrar algunas entradas de blog con tutoriales y ejemplos sobre el uso de las tecnologías que he ido aprendiendo durante los años.
 </br>
 </br>
-[![astro-badge]][astro-web]
+[![astro-badge]][web-link]
 </br>
 `(Sitio web en desarrollo)`
 
@@ -42,8 +42,7 @@ He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como 
 <!--END_SECTION:activity-->
 
 [astro-badge]: https://img.shields.io/badge/Visita%20mi%20web%20desarrollada%20en%20Astro-FF5D01?logo=astro&logoColor=fff&style=for-the-badge
-[astro-web]: https://astro.build/
-[banner]: https://sgarciad.s3.us-east-1.amazonaws.com/misc/github-header-image.png
+[banner]: https://sgarciad.s3.us-east-1.amazonaws.com/misc/github-header-image.png?
 [link-banner]: https://github.com/sebaignacioo
 [linkedin-badge]: https://img.shields.io/badge/Mi%20perfil%20de%20LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat
 [linkedin-link]: https://www.linkedin.com/in/sgarciad/
@@ -51,3 +50,4 @@ He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como 
 [discord-link]: https://www.discord.com
 [mail-badge]: https://img.shields.io/badge/Env%C3%ADame%20un%20email-000000?logo=gmail&logoColor=fff&style=flat
 [mail-link]: mailto:contacto@sgarciad.me
+[web-link]: https://sgarciad.me
