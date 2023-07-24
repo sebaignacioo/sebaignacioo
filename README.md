@@ -21,7 +21,7 @@
 <!--START_SECTION:personal-stats-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-3-blue)
+![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-5-blue)
 
 **🐱 Mis datos de GitHub** 
 
@@ -62,7 +62,7 @@ Windows                  41 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 23/07/2023 01:34:38 UTC
+ Last Updated on 24/07/2023 01:24:01 UTC
 <!--END_SECTION:personal-stats-->
 
 ## :globe_with_meridians: Web personal
