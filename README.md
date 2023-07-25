@@ -51,18 +51,17 @@
 🕑︎ Zona Horaria: America/Santiago
 
 💬 Lenguajes: 
-Astro                    29 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   71.20 % 
-TypeScript               11 mins             ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.80 % 
+Sin actividad registrada esta semana
 
 🔥 Editores: 
-VS Code                  41 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Sin actividad registrada esta semana
 
 💻 Sistema Operativo: 
-Windows                  41 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Sin actividad registrada esta semana
 ```
 
 
- Last Updated on 24/07/2023 01:24:01 UTC
+ Last Updated on 25/07/2023 01:38:41 UTC
 <!--END_SECTION:personal-stats-->
 
 ## :globe_with_meridians: Web personal
