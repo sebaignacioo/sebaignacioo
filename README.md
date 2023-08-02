@@ -21,7 +21,7 @@
 <!--START_SECTION:personal-stats-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-5-blue)
+![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-2-blue)
 
 **🐱 Mis datos de GitHub** 
 
@@ -61,7 +61,7 @@ Sin actividad registrada esta semana
 ```
 
 
- Last Updated on 01/08/2023 01:26:39 UTC
+ Last Updated on 02/08/2023 01:14:57 UTC
 <!--END_SECTION:personal-stats-->
 
 ## :globe_with_meridians: Web personal
