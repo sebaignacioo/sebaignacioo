@@ -19,9 +19,9 @@
 ## :chart_with_upwards_trend: Stats
 
 <!--START_SECTION:personal-stats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-3-blue)
+![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-4-blue)
 
 **🐱 Mis datos de GitHub** 
 
@@ -51,8 +51,8 @@
 🕑︎ Zona Horaria: America/Santiago
 
 💬 Lenguajes: 
-TypeScript               1 hr 20 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   91.78 % 
-Astro                    5 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.90 % 
+TypeScript               1 hr 21 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   91.79 % 
+Astro                    5 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.89 % 
 Other                    1 min               ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.03 % 
 JSON                     0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.29 % 
 
@@ -64,7 +64,7 @@ Mac                      1 hr 28 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 04/08/2023 01:18:37 UTC
+ Last Updated on 05/08/2023 01:14:44 UTC
 <!--END_SECTION:personal-stats-->
 
 ## :globe_with_meridians: Web personal
