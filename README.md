@@ -19,7 +19,7 @@
 ## :chart_with_upwards_trend: Stats
 
 <!--START_SECTION:personal-stats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-287%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-285%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-13-blue)
 
@@ -67,7 +67,7 @@ Mac                      10 hrs 58 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 03/12/2023 01:15:08 UTC
+ Last Updated on 04/12/2023 01:12:00 UTC
 <!--END_SECTION:personal-stats-->
 
 ## :globe_with_meridians: Web personal
