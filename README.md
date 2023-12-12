@@ -19,9 +19,9 @@
 ## :chart_with_upwards_trend: Stats
 
 <!--START_SECTION:personal-stats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-16-blue)
+![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-5-blue)
 
 **🐱 Mis datos de GitHub** 
 
@@ -68,7 +68,7 @@ Windows                  6 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 11/12/2023 01:12:32 UTC
+ Last Updated on 12/12/2023 01:12:25 UTC
 <!--END_SECTION:personal-stats-->
 
 ## :globe_with_meridians: Web personal
