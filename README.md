@@ -27,7 +27,7 @@
 
 > 📦 338.2 kB Almacenamiento de GitHub utilizado 
  > 
-> 🏆 185 Contribuciones durante el año 2023
+> 🏆 0 Contribuciones durante el año 2024
  > 
 > 💼 Abierto a contratación
  > 
@@ -66,7 +66,7 @@ Mac                      6 hrs 16 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 31/12/2023 01:15:15 UTC
+ Last Updated on 01/01/2024 01:16:57 UTC
 <!--END_SECTION:personal-stats-->
 
 ## :globe_with_meridians: Web personal
