@@ -19,15 +19,15 @@
 ## :chart_with_upwards_trend: Stats
 
 <!--START_SECTION:personal-stats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-25-blue)
+![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-24-blue)
 
 **🐱 Mis datos de GitHub** 
 
 > 📦 338.2 kB Almacenamiento de GitHub utilizado 
  > 
-> 🏆 0 Contribuciones durante el año 2024
+> 🏆 1 Contribuciones durante el año 2024
  > 
 > 💼 Abierto a contratación
  > 
@@ -66,7 +66,7 @@ Mac                      4 hrs 14 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 07/01/2024 01:17:31 UTC
+ Last Updated on 08/01/2024 01:12:44 UTC
 <!--END_SECTION:personal-stats-->
 
 ## :globe_with_meridians: Web personal
