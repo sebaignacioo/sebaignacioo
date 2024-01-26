@@ -80,11 +80,11 @@ He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como 
 ## :zap: Actividad reciente en Github
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/sebaignacioo/docker-express-ts/pull/2) in [sebaignacioo/docker-express-ts](https://github.com/sebaignacioo/docker-express-ts)
-2. 🎉 Merged PR [#1](https://github.com/sebaignacioo/docker-express-ts/pull/1) in [sebaignacioo/docker-express-ts](https://github.com/sebaignacioo/docker-express-ts)
-3. 🎉 Merged PR [#3](https://github.com/sebaignacioo/practica-python-graficos/pull/3) in [sebaignacioo/practica-python-graficos](https://github.com/sebaignacioo/practica-python-graficos)
-4. 🎉 Merged PR [#1](https://github.com/sebaignacioo/practica-python-graficos/pull/1) in [sebaignacioo/practica-python-graficos](https://github.com/sebaignacioo/practica-python-graficos)
-5. 🎉 Merged PR [#2](https://github.com/sebaignacioo/practica-python-graficos/pull/2) in [sebaignacioo/practica-python-graficos](https://github.com/sebaignacioo/practica-python-graficos)
+1. 🎉 Merged PR [#4](https://github.com/sebaignacioo/practica-python-graficos/pull/4) in [sebaignacioo/practica-python-graficos](https://github.com/sebaignacioo/practica-python-graficos)
+2. 🎉 Merged PR [#2](https://github.com/sebaignacioo/docker-express-ts/pull/2) in [sebaignacioo/docker-express-ts](https://github.com/sebaignacioo/docker-express-ts)
+3. 🎉 Merged PR [#1](https://github.com/sebaignacioo/docker-express-ts/pull/1) in [sebaignacioo/docker-express-ts](https://github.com/sebaignacioo/docker-express-ts)
+4. 🎉 Merged PR [#3](https://github.com/sebaignacioo/practica-python-graficos/pull/3) in [sebaignacioo/practica-python-graficos](https://github.com/sebaignacioo/practica-python-graficos)
+5. 🎉 Merged PR [#1](https://github.com/sebaignacioo/practica-python-graficos/pull/1) in [sebaignacioo/practica-python-graficos](https://github.com/sebaignacioo/practica-python-graficos)
 <!--END_SECTION:activity-->
 
 [astro-badge]: https://img.shields.io/badge/Visita%20mi%20web%20desarrollada%20en%20Astro-FF5D01?logo=astro&logoColor=fff&style=for-the-badge
