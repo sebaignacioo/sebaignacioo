@@ -19,7 +19,7 @@
 ## :chart_with_upwards_trend: Stats
 
 <!--START_SECTION:personal-stats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-391%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-4-blue)
 
@@ -66,7 +66,7 @@ Windows                  2 hrs 5 mins        ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 04/02/2024 01:11:59 UTC
+ Last Updated on 05/02/2024 01:09:08 UTC
 <!--END_SECTION:personal-stats-->
 
 ## :globe_with_meridians: Web personal
