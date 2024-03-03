@@ -3,20 +3,42 @@
 <div align="center">
 
 <!-- BANNER INICIAL -->
-[![banner]][link-banner]
+[![banner-light]][link-banner] [![banner-dark]][link-banner]
 [![linkedin-badge]][linkedin-link] [![discord-badge]][discord-link] [![mail-badge]][mail-link]
 
 </div>
 
 <!-- RESUMEN -->
+<!-- omit in toc -->
 ## :man_technologist: Un poco sobre mi
 
 > :round_pushpin: Soy Chileno, originario de Calama :sun_with_face:. Actualmente vivo en :ocean: Valparaíso. </br>
 > :man_student: Soy estudiante de Ingeniería de Ejecución en Informática, en la Pontificia Universidad Católica de Valparaíso. </br>
 > :keyboard: Programo desde el año 2013. </br>
-> :guitar: Me gusta mucho la música, toco guitarra y batería.
+> :guitar: Me gusta mucho la música, toco guitarra y batería. </br>
+> :camera_flash: Me gusta la fotografía y el diseño gráfico.
+
+<!-- omit in toc -->
+## :memo: Índice
+
+- [:globe\_with\_meridians: Web personal](#globe_with_meridians-web-personal)
+- [:chart\_with\_upwards\_trend: Stats](#chart_with_upwards_trend-stats)
+  - [:bar\_chart: Datos](#bar_chart-datos)
+  - [:zap: Actividad reciente en Github](#zap-actividad-reciente-en-github)
+
+## :globe_with_meridians: Web personal
+
+He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como programador, destaco algunos proyectos anteriores, y los puntos importantes de mi formación. Además, podrás encontrar algunas entradas de blog con tutoriales y ejemplos sobre el uso de las tecnologías que he ido aprendiendo durante los años.
+</br>
+</br>
+[![astro-badge]][web-link]
+</br>
+`(Sitio web en desarrollo)`
+
 
 ## :chart_with_upwards_trend: Stats
+
+### :bar_chart: Datos
 
 <!--START_SECTION:personal-stats-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-413%20hrs%2042%20mins-blue)
@@ -68,16 +90,7 @@ Mac                      8 hrs 6 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
  Last Updated on 03/03/2024 01:10:08 UTC
 <!--END_SECTION:personal-stats-->
 
-## :globe_with_meridians: Web personal
-
-He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como programador, destaco algunos proyectos anteriores, y los puntos importantes de mi formación. Además, podrás encontrar algunas entradas de blog con tutoriales y ejemplos sobre el uso de las tecnologías que he ido aprendiendo durante los años.
-</br>
-</br>
-[![astro-badge]][web-link]
-</br>
-`(Sitio web en desarrollo)`
-
-## :zap: Actividad reciente en Github
+### :zap: Actividad reciente en Github
 
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#1](https://github.com/MaplerCL/.github/issues/1) in [MaplerCL/.github](https://github.com/MaplerCL/.github)
@@ -88,12 +101,13 @@ He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como 
 <!--END_SECTION:activity-->
 
 [astro-badge]: https://img.shields.io/badge/Visita%20mi%20web%20desarrollada%20en%20Astro-FF5D01?logo=astro&logoColor=fff&style=for-the-badge
-[banner]: https://sgarciad.s3.us-east-1.amazonaws.com/misc/github-header-image.png?
+[banner-dark]: https://sgarciad.s3.us-east-1.amazonaws.com/misc/gh-banner-dark.png#gh-dark-mode-only
+[banner-light]: https://sgarciad.s3.us-east-1.amazonaws.com/misc/gh-banner-light.png#gh-light-mode-only
 [link-banner]: https://github.com/sebaignacioo
 [linkedin-badge]: https://img.shields.io/badge/Mi%20perfil%20de%20LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat
 [linkedin-link]: https://www.linkedin.com/in/sgarciad/
 [discord-badge]: https://img.shields.io/badge/@sebaignacioo%20en%20Discord-5865F2?logo=discord&logoColor=fff&style=flat
-[discord-link]: https://www.discord.com
+[discord-link]: https://discordapp.com/users/355149434595573760
 [mail-badge]: https://img.shields.io/badge/Env%C3%ADame%20un%20email-000000?logo=gmail&logoColor=fff&style=flat
 [mail-link]: mailto:contacto@sgarciad.me
 [web-link]: https://sgarciad.me

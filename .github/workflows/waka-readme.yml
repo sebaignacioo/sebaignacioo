@@ -16,7 +16,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LOCALE: "es"
           SECTION_NAME: "personal-stats"
-          COMMIT_MESSAGE: "[bot]: Información de Wakatime actualizada."
+          COMMIT_MESSAGE: "[:octopus:]: Información de Wakatime actualizada :zap:"
           SHOW_COMMIT: "True"
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_LANGUAGE: "True"
