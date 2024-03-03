@@ -1,5 +1,3 @@
-# Repositorio personal
-
 <div align="center">
 
 <!-- BANNER INICIAL -->
@@ -13,6 +11,11 @@
 [![linkedin-badge]][linkedin-link] [![discord-badge]][discord-link] [![mail-badge]][mail-link]
 
 </div>
+
+# Repositorio personal
+
+> [!IMPORTANT]
+> :gb: There is an English version of my GitHub profile, you can visit it [here](README_en.md).
 
 <!-- RESUMEN -->
 <!-- omit in toc -->
@@ -31,6 +34,8 @@
 - [:chart\_with\_upwards\_trend: Stats](#chart_with_upwards_trend-stats)
   - [:bar\_chart: Datos](#bar_chart-datos)
   - [:zap: Actividad reciente en Github](#zap-actividad-reciente-en-github)
+- [:octocat: Utilidades personales](#octocat-utilidades-personales)
+  - [Links de interés](#links-de-interés)
 
 ## :globe_with_meridians: Web personal
 
@@ -106,11 +111,23 @@ Mac                      8 hrs 6 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 5. 🎉 Merged PR [#3](https://github.com/sebaignacioo/practica-python-graficos/pull/3) in [sebaignacioo/practica-python-graficos](https://github.com/sebaignacioo/practica-python-graficos)
 <!--END_SECTION:activity-->
 
+## :octocat: Utilidades personales
+
+| Nombre | Descripción | Link |
+| :-- | :-- | :-: |
+| `banners` | Banners para READMEs de GitHub | [Ir a archivo .md][banners-link] |
+
+### Links de interés
+
+- [Documentación de GitHub - Markdown](https://docs.github.com/es/github/writing-on-github/basic-writing-and-formatting-syntax)
+- [Documentación de GitHub - Badges](https://docs.github.com/es/actions/learn-github-actions/sharing-workflows/sharing-workflow-status-badges)
+
 [astro-badge]: https://img.shields.io/badge/Visita%20mi%20web%20desarrollada%20en%20Astro-FF5D01?logo=astro&logoColor=fff&style=for-the-badge
 [linkedin-badge]: https://img.shields.io/badge/Mi%20perfil%20de%20LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat
 [linkedin-link]: https://www.linkedin.com/in/sgarciad/
-[discord-badge]: https://img.shields.io/badge/@sebaignacioo%20en%20Discord-5865F2?logo=discord&logoColor=fff&style=flat
+[discord-badge]: https://img.shields.io/badge/@sebaignacioo-5865F2?logo=discord&logoColor=fff&style=flat
 [discord-link]: https://discordapp.com/users/355149434595573760
 [mail-badge]: https://img.shields.io/badge/Env%C3%ADame%20un%20email-000000?logo=gmail&logoColor=fff&style=flat
 [mail-link]: mailto:contacto@sgarciad.me
 [web-link]: https://sgarciad.me
+[banners-link]: docs/banners.md
