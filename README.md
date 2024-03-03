@@ -3,7 +3,13 @@
 <div align="center">
 
 <!-- BANNER INICIAL -->
-[![banner-light]][link-banner] [![banner-dark]][link-banner]
+<a href="https://github.com/sebaignacioo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://sgarciad.s3.us-east-1.amazonaws.com/misc/gh-banner-dark.png">
+    <img alt="Banner @sebaignacioo." src="https://sgarciad.s3.us-east-1.amazonaws.com/misc/gh-banner-light.png">
+  </picture>
+</a>
+
 [![linkedin-badge]][linkedin-link] [![discord-badge]][discord-link] [![mail-badge]][mail-link]
 
 </div>
@@ -101,9 +107,6 @@ Mac                      8 hrs 6 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <!--END_SECTION:activity-->
 
 [astro-badge]: https://img.shields.io/badge/Visita%20mi%20web%20desarrollada%20en%20Astro-FF5D01?logo=astro&logoColor=fff&style=for-the-badge
-[banner-dark]: https://sgarciad.s3.us-east-1.amazonaws.com/misc/gh-banner-dark.png#gh-dark-mode-only
-[banner-light]: https://sgarciad.s3.us-east-1.amazonaws.com/misc/gh-banner-light.png#gh-light-mode-only
-[link-banner]: https://github.com/sebaignacioo
 [linkedin-badge]: https://img.shields.io/badge/Mi%20perfil%20de%20LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat
 [linkedin-link]: https://www.linkedin.com/in/sgarciad/
 [discord-badge]: https://img.shields.io/badge/@sebaignacioo%20en%20Discord-5865F2?logo=discord&logoColor=fff&style=flat
