@@ -182,11 +182,11 @@ Mac                      8 hrs 6 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ### :zap: Actividad reciente en Github
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/MaplerCL/.github/issues/1) in [MaplerCL/.github](https://github.com/MaplerCL/.github)
-2. 🎉 Merged PR [#4](https://github.com/sebaignacioo/practica-python-graficos/pull/4) in [sebaignacioo/practica-python-graficos](https://github.com/sebaignacioo/practica-python-graficos)
-3. 🎉 Merged PR [#2](https://github.com/sebaignacioo/docker-express-ts/pull/2) in [sebaignacioo/docker-express-ts](https://github.com/sebaignacioo/docker-express-ts)
-4. 🎉 Merged PR [#1](https://github.com/sebaignacioo/docker-express-ts/pull/1) in [sebaignacioo/docker-express-ts](https://github.com/sebaignacioo/docker-express-ts)
-5. 🎉 Merged PR [#3](https://github.com/sebaignacioo/practica-python-graficos/pull/3) in [sebaignacioo/practica-python-graficos](https://github.com/sebaignacioo/practica-python-graficos)
+1. ❗ Opened issue [#11](https://github.com/sebaignacioo/sebaignacioo/issues/11) in [sebaignacioo/sebaignacioo](https://github.com/sebaignacioo/sebaignacioo)
+2. 🔒 Closed issue [#7](https://github.com/sebaignacioo/sebaignacioo/issues/7) in [sebaignacioo/sebaignacioo](https://github.com/sebaignacioo/sebaignacioo)
+3. 🎉 Merged PR [#10](https://github.com/sebaignacioo/sebaignacioo/pull/10) in [sebaignacioo/sebaignacioo](https://github.com/sebaignacioo/sebaignacioo)
+4. 💪 Opened PR [#10](https://github.com/sebaignacioo/sebaignacioo/pull/10) in [sebaignacioo/sebaignacioo](https://github.com/sebaignacioo/sebaignacioo)
+5. ❗ Opened issue [#9](https://github.com/sebaignacioo/sebaignacioo/issues/9) in [sebaignacioo/sebaignacioo](https://github.com/sebaignacioo/sebaignacioo)
 <!--END_SECTION:activity-->
 
 ## :octocat: Utilidades personales
