@@ -136,9 +136,7 @@ He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como 
 
 **🐱 Mis datos de GitHub** 
 
-> 📦 301.2 kB Almacenamiento de GitHub utilizado 
- > 
-> 🏆 47 Contribuciones durante el año 2024
+> 📦 301.0 kB Almacenamiento de GitHub utilizado 
  > 
 > 💼 Abierto a contratación
  > 
@@ -172,7 +170,7 @@ Sin actividad registrada esta semana
 ```
 
 
- Last Updated on 23/04/2024 01:10:12 UTC
+ Last Updated on 24/04/2024 01:10:48 UTC
 <!--END_SECTION:personal-stats-->
 
 ### :zap: Actividad reciente en Github
