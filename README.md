@@ -138,7 +138,7 @@ He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como 
 
 > 📦 301.1 kB Almacenamiento de GitHub utilizado 
  > 
-> 🏆 47 Contribuciones durante el año 2024
+> 🏆 0 Contribuciones durante el año 2024
  > 
 > 💼 Abierto a contratación
  > 
@@ -176,7 +176,7 @@ Mac                      2 hrs 2 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 08/05/2024 00:59:07 UTC
+ Last Updated on 09/05/2024 01:11:05 UTC
 <!--END_SECTION:personal-stats-->
 
 ### :zap: Actividad reciente en Github
