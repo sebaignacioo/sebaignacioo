@@ -132,7 +132,7 @@ He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como 
 <!--START_SECTION:personal-stats-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-444%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-7-blue)
+![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-9-blue)
 
 **🐱 Mis datos de GitHub** 
 
@@ -162,17 +162,17 @@ He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como 
 🕑︎ Zona Horaria: America/Santiago
 
 💬 Lenguajes: 
-JSON                     0 secs              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Sin actividad registrada esta semana
 
 🔥 Editores: 
-PhpStorm                 0 secs              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Sin actividad registrada esta semana
 
 💻 Sistema Operativo: 
-Mac                      0 secs              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Sin actividad registrada esta semana
 ```
 
 
- Last Updated on 18/05/2024 01:11:40 UTC
+ Last Updated on 19/05/2024 01:17:08 UTC
 <!--END_SECTION:personal-stats-->
 
 ### :zap: Actividad reciente en Github
