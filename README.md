@@ -130,7 +130,7 @@ He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como 
 ### :bar_chart: Datos
 
 <!--START_SECTION:personal-stats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-462%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-462%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-3-blue)
 
@@ -176,7 +176,7 @@ Mac                      41 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 19/07/2024 01:21:25 UTC
+ Last Updated on 20/07/2024 01:16:34 UTC
 <!--END_SECTION:personal-stats-->
 
 ### :zap: Actividad reciente en Github
