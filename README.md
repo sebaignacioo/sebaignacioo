@@ -162,17 +162,17 @@ He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como 
 🕑︎ Zona Horaria: America/Santiago
 
 💬 Lenguajes: 
-TeX                      1 min               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Sin actividad registrada esta semana
 
 🔥 Editores: 
-VS Code                  1 min               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Sin actividad registrada esta semana
 
 💻 Sistema Operativo: 
-Mac                      1 min               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Sin actividad registrada esta semana
 ```
 
 
- Last Updated on 30/07/2024 01:19:00 UTC
+ Last Updated on 31/07/2024 01:05:40 UTC
 <!--END_SECTION:personal-stats-->
 
 ### :zap: Actividad reciente en Github
