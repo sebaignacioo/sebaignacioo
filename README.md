@@ -130,15 +130,13 @@ He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como 
 ### :bar_chart: Datos
 
 <!--START_SECTION:personal-stats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-466%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-466%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-0-blue)
+![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-2-blue)
 
 **🐱 Mis datos de GitHub** 
 
 > 📦 301.1 kB Almacenamiento de GitHub utilizado 
- > 
-> 🏆 47 Contribuciones durante el año 2024
  > 
 > 💼 Abierto a contratación
  > 
@@ -162,22 +160,22 @@ He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como 
 🕑︎ Zona Horaria: America/Santiago
 
 💬 Lenguajes: 
-Jupyter                  2 hrs 20 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   60.98 % 
-Other                    31 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.85 % 
-BibTeX                   28 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.33 % 
-GitIgnore file           11 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.02 % 
-Python                   7 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.35 % 
+Jupyter                  4 hrs 38 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   75.40 % 
+Other                    31 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.65 % 
+BibTeX                   28 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.70 % 
+GitIgnore file           11 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.15 % 
+Python                   7 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.09 % 
 
 🔥 Editores: 
-PyCharm                  2 hrs 42 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   70.48 % 
-VS Code                  1 hr 8 mins         ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.52 % 
+PyCharm                  5 hrs 1 min         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   81.56 % 
+VS Code                  1 hr 8 mins         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.44 % 
 
 💻 Sistema Operativo: 
-Mac                      3 hrs 50 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Mac                      6 hrs 9 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 
- Last Updated on 09/08/2024 01:20:37 UTC
+ Last Updated on 10/08/2024 01:20:10 UTC
 <!--END_SECTION:personal-stats-->
 
 ### :zap: Actividad reciente en Github
