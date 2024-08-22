@@ -130,13 +130,15 @@ He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como 
 ### :bar_chart: Datos
 
 <!--START_SECTION:personal-stats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-490%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-490%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-4-blue)
 
 **🐱 Mis datos de GitHub** 
 
 > 📦 301.1 kB Almacenamiento de GitHub utilizado 
+ > 
+> 🏆 47 Contribuciones durante el año 2024
  > 
 > 💼 Abierto a contratación
  > 
@@ -175,7 +177,7 @@ Mac                      15 hrs 30 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 21/08/2024 01:19:54 UTC
+ Last Updated on 22/08/2024 01:21:22 UTC
 <!--END_SECTION:personal-stats-->
 
 ### :zap: Actividad reciente en Github
