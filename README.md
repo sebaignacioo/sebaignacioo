@@ -162,17 +162,18 @@ He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como 
 🕑︎ Zona Horaria: America/Santiago
 
 💬 Lenguajes: 
-Sin actividad registrada esta semana
+Markdown                 13 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   94.02 % 
+Python                   0 secs              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.98 % 
 
 🔥 Editores: 
-Sin actividad registrada esta semana
+VS Code                  14 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 💻 Sistema Operativo: 
-Sin actividad registrada esta semana
+Mac                      14 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 
- Last Updated on 23/09/2024 01:27:56 UTC
+ Last Updated on 24/09/2024 01:35:33 UTC
 <!--END_SECTION:personal-stats-->
 
 ### :zap: Actividad reciente en Github
