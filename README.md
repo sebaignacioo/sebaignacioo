@@ -138,6 +138,8 @@ He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como 
 
 > 📦 301.2 kB Almacenamiento de GitHub utilizado 
  > 
+> 🏆 47 Contribuciones durante el año 2024
+ > 
 > 💼 Abierto a contratación
  > 
 > 📜 16 Repositorios Públicos 
@@ -160,18 +162,17 @@ He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como 
 🕑︎ Zona Horaria: America/Santiago
 
 💬 Lenguajes: 
-TeX                      8 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   98.15 % 
-Other                    0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.85 % 
+Sin actividad registrada esta semana
 
 🔥 Editores: 
-VS Code                  8 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Sin actividad registrada esta semana
 
 💻 Sistema Operativo: 
-Mac                      8 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Sin actividad registrada esta semana
 ```
 
 
- Last Updated on 26/12/2024 01:28:05 UTC
+ Last Updated on 27/12/2024 01:36:08 UTC
 <!--END_SECTION:personal-stats-->
 
 ### :zap: Actividad reciente en Github
