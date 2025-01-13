@@ -138,8 +138,6 @@ He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como 
 
 > 📦 301.1 kB Almacenamiento de GitHub utilizado 
  > 
-> 🏆 0 Contribuciones durante el año 2025
- > 
 > 💼 Abierto a contratación
  > 
 > 📜 16 Repositorios Públicos 
@@ -175,7 +173,7 @@ Mac                      27 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 12/01/2025 01:43:49 UTC
+ Last Updated on 13/01/2025 01:41:01 UTC
 <!--END_SECTION:personal-stats-->
 
 ### :zap: Actividad reciente en Github
