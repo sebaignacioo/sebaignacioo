@@ -132,7 +132,7 @@ He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como 
 <!--START_SECTION:personal-stats-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-587%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-24-blue)
+![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-28-blue)
 
 **🐱 Mis datos de GitHub** 
 
@@ -172,7 +172,7 @@ Sin actividad registrada esta semana
 ```
 
 
- Last Updated on 09/04/2025 01:44:19 UTC
+ Last Updated on 10/04/2025 01:44:21 UTC
 <!--END_SECTION:personal-stats-->
 
 ### :zap: Actividad reciente en Github
