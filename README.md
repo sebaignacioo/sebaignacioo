@@ -136,9 +136,9 @@ He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como 
 
 **🐱 Mis datos de GitHub** 
 
-> 📦 301.2 kB Almacenamiento de GitHub utilizado 
+> 📦 301.3 kB Almacenamiento de GitHub utilizado 
  > 
-> 🏆 0 Contribuciones durante el año 2025
+> 🏆 13 Contribuciones durante el año 2025
  > 
 > 💼 Abierto a contratación
  > 
@@ -146,13 +146,13 @@ He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como 
  > 
 > 🔑 20 Repositorios Privados 
  > 
-**Soy nocturno 🦉** 
+**Soy diurno 🐤** 
 
 ```text
-🌞 Mañana                 42 commits          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.38 % 
-🌆 Día                    102 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.93 % 
-🌃 Tarde                  106 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.30 % 
-🌙 Noche                  42 commits          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.38 % 
+🌞 Mañana                 84 commits          ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.07 % 
+🌆 Día                    111 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.81 % 
+🌃 Tarde                  112 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.09 % 
+🌙 Noche                  42 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.03 % 
 ```
 
 
@@ -172,7 +172,7 @@ Sin actividad registrada esta semana
 ```
 
 
- Last Updated on 29/06/2025 02:05:34 UTC
+ Last Updated on 30/06/2025 02:00:43 UTC
 <!--END_SECTION:personal-stats-->
 
 ### :zap: Actividad reciente en Github
