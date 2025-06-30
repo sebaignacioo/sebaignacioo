@@ -178,11 +178,11 @@ Sin actividad registrada esta semana
 ### :zap: Actividad reciente en Github
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#11](https://github.com/sebaignacioo/sebaignacioo/issues/11) in [sebaignacioo/sebaignacioo](https://github.com/sebaignacioo/sebaignacioo)
-2. 🔒 Closed issue [#7](https://github.com/sebaignacioo/sebaignacioo/issues/7) in [sebaignacioo/sebaignacioo](https://github.com/sebaignacioo/sebaignacioo)
-3. 🎉 Merged PR [#10](https://github.com/sebaignacioo/sebaignacioo/pull/10) in [sebaignacioo/sebaignacioo](https://github.com/sebaignacioo/sebaignacioo)
-4. 💪 Opened PR [#10](https://github.com/sebaignacioo/sebaignacioo/pull/10) in [sebaignacioo/sebaignacioo](https://github.com/sebaignacioo/sebaignacioo)
-5. ❗ Opened issue [#9](https://github.com/sebaignacioo/sebaignacioo/issues/9) in [sebaignacioo/sebaignacioo](https://github.com/sebaignacioo/sebaignacioo)
+1. 🎉 Merged PR [#5](https://github.com/sebaignacioo/react-rickandmorty-example/pull/5) in [sebaignacioo/react-rickandmorty-example](https://github.com/sebaignacioo/react-rickandmorty-example)
+2. 💪 Opened PR [#5](https://github.com/sebaignacioo/react-rickandmorty-example/pull/5) in [sebaignacioo/react-rickandmorty-example](https://github.com/sebaignacioo/react-rickandmorty-example)
+3. 🎉 Merged PR [#4](https://github.com/sebaignacioo/react-rickandmorty-example/pull/4) in [sebaignacioo/react-rickandmorty-example](https://github.com/sebaignacioo/react-rickandmorty-example)
+4. 🎉 Merged PR [#3](https://github.com/sebaignacioo/react-rickandmorty-example/pull/3) in [sebaignacioo/react-rickandmorty-example](https://github.com/sebaignacioo/react-rickandmorty-example)
+5. 🎉 Merged PR [#2](https://github.com/sebaignacioo/react-rickandmorty-example/pull/2) in [sebaignacioo/react-rickandmorty-example](https://github.com/sebaignacioo/react-rickandmorty-example)
 <!--END_SECTION:activity-->
 
 ## :octocat: Utilidades personales
