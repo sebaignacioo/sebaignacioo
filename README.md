@@ -132,13 +132,13 @@ He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como 
 <!--START_SECTION:personal-stats-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-587%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-12-blue)
+![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-2-blue)
 
 **🐱 Mis datos de GitHub** 
 
 > 📦 301.3 kB Almacenamiento de GitHub utilizado 
  > 
-> 🏆 13 Contribuciones durante el año 2025
+> 🏆 0 Contribuciones durante el año 2025
  > 
 > 💼 Abierto a contratación
  > 
@@ -172,7 +172,7 @@ Sin actividad registrada esta semana
 ```
 
 
- Last Updated on 02/07/2025 01:55:11 UTC
+ Last Updated on 03/07/2025 01:55:31 UTC
 <!--END_SECTION:personal-stats-->
 
 ### :zap: Actividad reciente en Github
