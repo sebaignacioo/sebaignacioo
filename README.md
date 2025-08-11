@@ -138,7 +138,7 @@ He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como 
 
 > 📦 301.3 kB Almacenamiento de GitHub utilizado 
  > 
-> 🏆 13 Contribuciones durante el año 2025
+> 🏆 0 Contribuciones durante el año 2025
  > 
 > 💼 Abierto a contratación
  > 
@@ -172,7 +172,7 @@ Sin actividad registrada esta semana
 ```
 
 
- Last Updated on 10/08/2025 02:09:33 UTC
+ Last Updated on 11/08/2025 02:05:45 UTC
 <!--END_SECTION:personal-stats-->
 
 ### :zap: Actividad reciente en Github
