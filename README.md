@@ -146,8 +146,33 @@ He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como 
  > 
 > 🔑 20 Repositorios Privados 
  > 
+**Soy diurno 🐤** 
 
- Last Updated on 24/09/2025 01:42:43 UTC
+```text
+🌞 Mañana                 95 commits          ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.03 % 
+🌆 Día                    114 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.23 % 
+🌃 Tarde                  114 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.23 % 
+🌙 Noche                  42 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.51 % 
+```
+
+
+📊 **Esta semana me dediqué a** 
+
+```text
+🕑︎ Zona Horaria: America/Santiago
+
+💬 Lenguajes: 
+Sin actividad registrada esta semana
+
+🔥 Editores: 
+Sin actividad registrada esta semana
+
+💻 Sistema Operativo: 
+Sin actividad registrada esta semana
+```
+
+
+ Last Updated on 25/09/2025 01:43:17 UTC
 <!--END_SECTION:personal-stats-->
 
 ### :zap: Actividad reciente en Github
