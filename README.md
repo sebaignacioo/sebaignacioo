@@ -130,8 +130,6 @@ He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como 
 ### :bar_chart: Datos
 
 <!--START_SECTION:personal-stats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-587%20hrs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-1-blue)
 
 **🐱 Mis datos de GitHub** 
@@ -146,33 +144,8 @@ He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como 
  > 
 > 🔑 20 Repositorios Privados 
  > 
-**Soy diurno 🐤** 
 
-```text
-🌞 Mañana                 95 commits          ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.03 % 
-🌆 Día                    114 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.23 % 
-🌃 Tarde                  114 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.23 % 
-🌙 Noche                  42 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.51 % 
-```
-
-
-📊 **Esta semana me dediqué a** 
-
-```text
-🕑︎ Zona Horaria: America/Santiago
-
-💬 Lenguajes: 
-Sin actividad registrada esta semana
-
-🔥 Editores: 
-Sin actividad registrada esta semana
-
-💻 Sistema Operativo: 
-Sin actividad registrada esta semana
-```
-
-
- Last Updated on 27/09/2025 01:38:16 UTC
+ Last Updated on 28/09/2025 01:51:05 UTC
 <!--END_SECTION:personal-stats-->
 
 ### :zap: Actividad reciente en Github
