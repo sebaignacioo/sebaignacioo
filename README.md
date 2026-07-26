@@ -130,11 +130,13 @@ He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como 
 ### :bar_chart: Datos
 
 <!--START_SECTION:personal-stats-->
+![Code Time](http://img.shields.io/badge/Code%20Time-587%20hrs%2029%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-1-blue?style=flat)
 
 **🐱 Mis datos de GitHub** 
 
-> 📦 301.6 kB Almacenamiento de GitHub utilizado 
+> 📦 301.5 kB Almacenamiento de GitHub utilizado 
  > 
 > 🏆 0 Contribuciones durante el año 2026
  > 
@@ -170,7 +172,7 @@ Sin actividad registrada esta semana
 ```
 
 
- Last Updated on 25/07/2026 02:54:42 UTC
+ Last Updated on 26/07/2026 03:20:29 UTC
 <!--END_SECTION:personal-stats-->
 
 ### :zap: Actividad reciente en Github
