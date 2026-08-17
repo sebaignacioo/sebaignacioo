@@ -132,7 +132,7 @@ He desarrollado un sitio web, donde brindo un resumen sobre mi experiencia como 
 <!--START_SECTION:personal-stats-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-557%20hrs%2010%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-2-blue?style=flat)
 
 **🐱 Mis datos de GitHub** 
 
@@ -178,7 +178,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 16/08/2026 01:35:18 UTC
+ Last Updated on 17/08/2026 01:26:39 UTC
 <!--END_SECTION:personal-stats-->
 
 ### :zap: Actividad reciente en Github
